@@ -4,3 +4,9 @@ list of commands
 ps -e
 ps -el
 ps -elf
+linux main commands
+uptime
+top
+vmstat
+iostat
+netstat

@@ -1,1 +1,6 @@
 please check my commands.
+list of commands
+
+ps -e
+ps -el
+ps -elf
